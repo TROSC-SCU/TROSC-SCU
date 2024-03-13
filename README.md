@@ -4,10 +4,18 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Community+in+FCI+SCU;Community+in+FCI+SCU;"></a>
 </p>
 
+## 👉 Who We Are 
 - 🔭 We are Community at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
 
 - 🌱 We are help students about **Computer Science**
   
+- WE ARE FIRST AND ONLY TEAM IN COMPUTER SCIENCE SUEZ CANAL
+  Established in 2011
+- TECHNOLOGY REVOLUTION OF SUEZ CANAL (TROSC) is a non-governmental 
+and non-profit Computer science organization.
+- TROSC works to promote improved computer science skills through the 
+provision of information, education, networking, and a range of publications 
+and professional activities.
 
 
 
