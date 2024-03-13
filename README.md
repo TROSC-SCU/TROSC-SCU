@@ -10,12 +10,14 @@
   
 
 
+
 ## 👉 Ho to reach US 
 <p align="center">
 <a href="https://www.linkedin.com/company/troscscu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/troscscu/" height="80" width="60"    /      ></a>
-<a href="https://www.facebook.com/trosc.team/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TROSC" height="80" width="60" />         </a>
+<a href="https://www.facebook.com/profile.php?id=61552063073074&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TROSC" height="80" width="60" />         </a>
 <a href="https://twitter.com/TROSC_SCU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TROSC" height="80" width="60" /></a>
 <a href="https://www.youtube.com/@troscscu4434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TROSC" height="80" width="60" /     ></a>
+
 
 </p>
 <hr>
